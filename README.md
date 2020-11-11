@@ -2,7 +2,7 @@
 Welcome.
 
 Open the notebook _IEngineering_Assignment_mubashir.ipynb_. Click on **Open in Collab** and sign in to any google account to run.
-All the code will run without any change or hastle.
+All the code will run without any change or hassle.
 
 To test with your own dataset, click on the _Files_ icon on the left bar.
 Click on the three vertical dots next to _road-sign-dataset_
